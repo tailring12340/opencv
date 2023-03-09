@@ -1,9 +1,9 @@
 # opencv
 
-source
+● Source
 
-Practical Python and OpenCV + Case Studies
+- Practical Python and OpenCV + Case Studies
 
-reference
+● Reference
 
-https://jnu-kimwoojae.notion.site/Chapter-03-b0e3fea5d678473aac7380c495477189
+- https://jnu-kimwoojae.notion.site/Chapter-03-b0e3fea5d678473aac7380c495477189
